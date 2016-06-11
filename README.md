@@ -1,2 +1,2 @@
 # PopoverView
-This Demo refer to the IOS code DxPopover
+This is Android Popover Demo whitch refer to the IOS code DxPopover
